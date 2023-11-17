@@ -1,5 +1,4 @@
 # blockchain
-blockchain learning...
 Block Chain :
 <hr/>
 <strong> What is blockchain ? </strong>
@@ -26,44 +25,44 @@ Any device that interacts with the off-chain world to provide external data or c
 <hr/>
 <strong> Hybrid smart contracts: </strong>
 <br/>
-combining blockchains onchain decentralised logic with offchain decentralized data or computition is called Hybrid smart contracts.
+Combining blockchains onchain decentralised logic with offchain decentralized data or computition is called Hybrid smart contracts.
 <hr/>
 <strong> Chainlink: </strong>
 <br/>
-this is a modular decentralized oracle network that can bring both external data and external computition into our smart contracts to make sure they are decentralized end to end, while giving them the feature richness that we need for our agreements.
--> chainlink allows to get data to upkeeps, get random number or helps to constemize smart contracts in any meaningfull way.
+This is a modular decentralized oracle network that can bring both external data and external computition into our smart contracts to make sure they are decentralized end to end, while giving them the feature richness that we need for our agreements.
+-> Chainlink allows to get data to upkeeps, get random number or helps to constemize smart contracts in any meaningfull way.
 <br/>
 <em>Etherium is the most used smart contract along with Avalanch , polygon , phantom harmony and more</em>
 <br/>
 <ul>
-<li>smart contract platform <-> blockchain <-> store of value</li>
+<li>Smart contract platform <-> blockchain <-> store of value</li>
 <li></li>
 </ul>
 <hr/>
 <strong> DAP or Decentralized protocol/application or smart contract protocl: </strong>
 <br/>
-it is usually the application many smart contracts
+It is usually the application many smart contracts
 <hr/>
 <strong> Solidity: </strong>
 <br/>
-it is usually the singular smart contracts
+It is usually the singular smart contracts
 <hr/>
 <hr/>
 <ul>
-<li><strong>web1 -> </strong><p>the permissionless open sourced web with static content</p></li>
-<li><strong>web2 -> </strong><p>the permissioned web with dynamic content , where companies run your agreements on thier server</p></li>
-<li><strong>web3 -> </strong><p>the permissionless web, with dynamic content. where decentralized censorship resistant networks run your agreements and code.It generally is accompanied by the idea of user owned ecosystems, where protocols you interact with you also own a portion of, instead of solely being the product. </p></li>
+<li><strong>web1 -> </strong><p>The permissionless open sourced web with static content</p></li>
+<li><strong>web2 -> </strong><p>The permissioned web with dynamic content , where companies run your agreements on thier server</p></li>
+<li><strong>web3 -> </strong><p>The permissionless web, with dynamic content. where decentralized censorship resistant networks run your agreements and code.It generally is accompanied by the idea of user owned ecosystems, where protocols you interact with you also own a portion of, instead of solely being the product. </p></li>
 </ul>
 <hr/><hr/>
 <h5>Why smart contracts:</h5>
 <ol>
-<li>these are trust minimized agreements or unbreakable promises</li>
-<li>decentralized intermidiary</li>
-<li>individuals that run on these blockchains are known as node operators,this will make decentralized connectivity larger</li>
-<li>transparency and flexibilty</li>
-<li>blockchain is psuedo anonymous</li>
-<li>speed and efficiency</li>
-<li>security and immutability</li>
-<li>counterparty rist removal</li>
+<li>These are trust minimized agreements or unbreakable promises</li>
+<li>Decentralized intermidiary</li>
+<li>Individuals that run on these blockchains are known as node operators,this will make decentralized connectivity larger</li>
+<li>Transparency and flexibilty</li>
+<li>Blockchain is psuedo anonymous</li>
+<li>Speed and efficiency</li>
+<li>Security and immutability</li>
+<li>Counterparty rist removal</li>
 </ol>
 <hr/><hr/>
